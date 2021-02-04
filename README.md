@@ -5,9 +5,9 @@
 
  * sharuk katam* is a ✨ _special _✨ repository because its 'README.MD (this file) appears on your Github profile
  
- here are some ideas to get you started:
+ ✔Here are some ideas to get you started:
  
-🏍 i'm currently  studing..
-✨ i'm currently learning..
+🏍 I'm currently  studing..
+✨ I'm currently learning..
 
-i'm a deadly rider
+I'm a deadly rider
